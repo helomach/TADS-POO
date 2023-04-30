@@ -32,4 +32,5 @@ public class atv_02 {
 ```
 Informe um inteiro: 5
 Informe um inteiro: 5
+O produto de 5 * 5 é: 25
 ```
