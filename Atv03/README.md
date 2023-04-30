@@ -20,7 +20,5 @@ public class atv_03 {
         JOptionPane.showMessageDialog(null, "A média das atividades é: " + media);
    }
 }
-
-}
 ```
 
